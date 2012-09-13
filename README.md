@@ -1,2 +1,2 @@
 # Sinatra Samples
-Ejemplos usando [Sinatra](http://www.sinatrarb.com/)
+Ejemplos usando [Sinatra](http://www.sinatrarb.com/).
