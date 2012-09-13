@@ -4,7 +4,7 @@ Hello World con Sinatra, con carga automática de archivos.
 ## Como ejecutar
 
 	$ gem install sinatra
-  $ gem install sinatra-contrib
+	$ gem install sinatra-contrib
 	$ ruby myapp.rb
 
 Abrir un browser:
