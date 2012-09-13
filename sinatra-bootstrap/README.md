@@ -1,5 +1,5 @@
-# Sinatra con Bootstrap Twitter
-Configuración mínima de [Bootstrap Twitter](http://twitter.github.com/bootstrap/).
+# Sinatra con Twitter Bootstrap
+Configuración mínima de [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
 
 ## Como ejecutar
 
