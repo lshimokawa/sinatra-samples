@@ -9,6 +9,7 @@ require 'capybara/cucumber'
 require 'rspec'
 
 Capybara.app = MyApp
+Capybara.default_driver = :selenium
 
 class MyAppWorld
   include Capybara::DSL

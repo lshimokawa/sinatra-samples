@@ -1,5 +1,5 @@
 require 'sinatra'
-require "sinatra/reloader" if development?
+require 'sinatra/reloader' if development?
 
 get '/' do
   erb :hello
