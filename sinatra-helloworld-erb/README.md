@@ -1,4 +1,4 @@
-# Hello World con ERB
+# Sinatra Hello World ERB
 Hello World con Sinatra, delega la vista a views/hello.erb
 
 ## Como ejecutar

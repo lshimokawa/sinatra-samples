@@ -1,5 +1,5 @@
-# Hello World con Reloader
-Hello World con Sinatra, con carga automática de archivos.
+# Sinatra Hello World Reloader
+Hello World con Sinatra, con carga automática de archivos utilizando Reloader.
 
 ## Como ejecutar
 

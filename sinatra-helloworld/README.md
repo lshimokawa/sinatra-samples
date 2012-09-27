@@ -1,5 +1,5 @@
-# Hello World
-Hello World con Sinatra.
+# Sinatra Hello World
+Hello World con Sinatra, configuración mínima.
 
 ## Como ejecutar
 

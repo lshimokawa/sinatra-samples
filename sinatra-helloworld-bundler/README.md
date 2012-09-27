@@ -1,5 +1,5 @@
-# Hello World
-Hello World con Sinatra, configurado con Bundler.
+# Sinatra Hello World Bundler
+Hello World con Sinatra, configurado con Bundler para el manejo de gemas, ejecutado con Rack.
 
 Revisar la siguiente [guía](http://gembundler.com/sinatra.html)
 
