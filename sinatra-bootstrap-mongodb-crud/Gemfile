@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+gem 'rack'
+gem 'rack-flash'
+gem 'thin'
+gem 'sinatra', :require => 'sinatra/base'
+gem 'mongoid'
+gem 'bson_ext'
+gem 'slim'
