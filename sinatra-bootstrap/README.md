@@ -1,5 +1,9 @@
-# Sinatra con Twitter Bootstrap
-Configuración mínima de [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+# Sinatra Bootstrap
+Configuración mínima de Sinatra con [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+
+En la carpeta public se han copiado los archivos de Twitter Bootstrap.
+
+En views/hello.erb está una vista con Twitter Bootstrap.
 
 ## Como ejecutar
 
@@ -9,5 +13,3 @@ Configuración mínima de [Twitter Bootstrap](http://twitter.github.com/bootstra
 Abrir un browser:
 	
 	http://localhost:4567
-
-Puedes modificar el archivo myapp.rb y actualizar el browser para ver los cambios.

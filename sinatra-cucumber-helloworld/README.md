@@ -1,5 +1,5 @@
 # Sinatra Cucumber Hello World
-Hello World con un feature de Cucumber.
+Hello World de Sinatra con un feature de Cucumber.
 
 Para crear el proyecto se utilizó [cucumber-sinatra](https://github.com/bernd/cucumber-sinatra)
 
