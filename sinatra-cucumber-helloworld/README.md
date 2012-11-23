@@ -1,7 +1,7 @@
 # Sinatra Cucumber Hello World
 Hello World de Sinatra con un feature de Cucumber.
 
-Para crear el proyecto se utilizó [cucumber-sinatra](https://github.com/bernd/cucumber-sinatra)
+Para crear el proyecto se utilizó [cucumber-sinatra](https://github.com/bernd/cucumber-sinatra).
 
 # Crear un proyecto
     $ gem install cucumber-sinatra
@@ -12,4 +12,4 @@ Revisar features/hello.feature
 
 # Ejecutar
 En la raiz del proyecto:
-    $ cucumber
+		$ cucumber
